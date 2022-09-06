@@ -192,5 +192,8 @@ span{
        color: brown;
        position: relative;
        top: 110px;
-       font-size: 35px;
+       font-size: 33px;
+}
+.footer{
+          margin-top: 10px;
 }
